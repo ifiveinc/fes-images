@@ -1,0 +1,1480 @@
+[
+  {
+    "label": "全体マップ",
+    "path": "maps/campus-overall-enhanced-7e4e8c32",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "周辺マップ",
+    "path": "maps/campus-surroundings-enhanced-86bf2ffc",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "馬場",
+    "path": "maps/equestrian-club-enhanced-c3ac6a6a",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "教育学部第一号館 3F",
+    "path": "maps/faculty-of-education-building-1-3f-enhanced-7d3d871a",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "理工学部5号館100実験室",
+    "path": "maps/faculty-of-science-and-engineering-building-5-enhanced-93f62615",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "Aグループ",
+    "path": "maps/group-a-enhanced-05948d75",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "Bグループ",
+    "path": "maps/group-b-enhanced-dfc5976e",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "Cグループ",
+    "path": "maps/group-c-enhanced-7c4429fa",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "Dグループ",
+    "path": "maps/group-d-enhanced-28e32669",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "Eグループ",
+    "path": "maps/group-e-enhanced-bcf73cdc",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "Fグループ",
+    "path": "maps/group-f-enhanced-be98197e",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "Gグループ",
+    "path": "maps/group-g-enhanced-800db081",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "ゲストライブ迂回ルート",
+    "path": "maps/guest-live-detour-route-enhanced-2438d02d",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "地域協創推進棟 2F",
+    "path": "maps/regional-co-creation-promotion-building-enhanced-865c9961",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "学生センターA棟 1F",
+    "path": "maps/student-center-building-a-1f-enhanced-7d1e958b",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "学生センターA棟 2F",
+    "path": "maps/student-center-building-a-2f-enhanced-3490fa0b",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "学生センターA棟 3F",
+    "path": "maps/student-center-building-a-3f-enhanced-6207b39c",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "学生センターA棟 4F",
+    "path": "maps/student-center-building-a-4f-enhanced-95ab64e4",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "学生センターB棟 1F",
+    "path": "maps/student-center-building-b-1f-enhanced-b6d0fab8",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "学生センターB棟 2F",
+    "path": "maps/student-center-building-b-2f-v2-enhanced-7325c4e6",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "学生センターB棟 3F",
+    "path": "maps/student-center-building-b-3f-enhanced-048b7ef4",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "学生センターC棟 1F",
+    "path": "maps/student-center-building-c-1f-enhanced-c534b273",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "学生センターC棟 2F",
+    "path": "maps/student-center-building-c-2f-enhanced-9a9be3a0",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "TOVLAB",
+    "path": "maps/tovlab-enhanced-c3e3f5cf",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "大学会館 2F",
+    "path": "maps/university-hall-2f-enhanced-21b41a8b",
+    "files": [
+      "list-640.webp",
+      "detail-1620.webp"
+    ]
+  },
+  {
+    "label": "TOVLABオープンデイ",
+    "path": "programs/cohosted-3e666e1d-94945b5a",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "女子学生のための化学実験体験会",
+    "path": "programs/cohosted-71ca8c99-f17336bd",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "②馬との触れ合い・餌やり体験",
+    "path": "programs/cohosted-9cc29d1c-0493aa7f",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "①幸せの蹄鉄屋さん",
+    "path": "programs/cohosted-cc0005c6-9a27c131",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "③乗馬体験",
+    "path": "programs/cohosted-e8ed65eb-add2432a",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "美術の軌跡",
+    "path": "programs/indoor-030ed1c0-232f6e73",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "模擬裁判",
+    "path": "programs/indoor-03ddb658-2f77f6f1",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ねこの手のグッズ販売",
+    "path": "programs/indoor-07b37204-3216a8c5",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "マジックショー",
+    "path": "programs/indoor-0bc5446c-00a14bd5",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "かぷかぷjazz club",
+    "path": "programs/indoor-0dd19aec-1cbc443d",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "洗心亭",
+    "path": "programs/indoor-1660c9c9-513718ba",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ZOOMOショップ",
+    "path": "programs/indoor-18474917-29c0dd17",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "当団の活動紹介及び物品販売",
+    "path": "programs/indoor-1e087f70-3d678556",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "うたごえ不来方ライブ",
+    "path": "programs/indoor-1f8af039-29d661e7",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "干支の土鈴を販売します♪",
+    "path": "programs/indoor-1ffad525-90683f0b",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "遊戯王OCG体験会、岩大CS(非公認大会)",
+    "path": "programs/indoor-24b69ee9-eb7d2942",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "VOIVOIアカペラミニライブ",
+    "path": "programs/indoor-33ae1da1-3a41d81a",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "謎解き＆クイズ体験",
+    "path": "programs/indoor-42e43262-bd6d5838",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "抹茶喫茶",
+    "path": "programs/indoor-4439d551-01c987f3",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "窯芸作品の展示・販売",
+    "path": "programs/indoor-47959979-342e489c",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "音ゲー同好会　がんぼる",
+    "path": "programs/indoor-48310d73-3bd6992c",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "あにくら！",
+    "path": "programs/indoor-48a39a99-401de4f2",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "解せぬ展xてづくり会〜見て作って考えてみよう〜",
+    "path": "programs/indoor-4b83ae85-2dad94f3",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "TRPG体験会",
+    "path": "programs/indoor-4d693e05-c811c00d",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "みんなであそぼ♪秋のお祭り",
+    "path": "programs/indoor-4dd9ca57-76a54f9f",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "高松バードギャラリー",
+    "path": "programs/indoor-53d9e700-2c0a125d",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ジャズ軒",
+    "path": "programs/indoor-5c40df95-c0e8baab",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "スマイリ先生と愉快な仲間たち♪",
+    "path": "programs/indoor-5f36e987-5f48e81a",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ほうきであそぼ！",
+    "path": "programs/indoor-61664ef5-1534e04d",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "岩大ボカロステーション",
+    "path": "programs/indoor-63eaf517-49423d5a",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ミニコンサート",
+    "path": "programs/indoor-6c023dee-c5ab0f83",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "マンドリンクラブ　ミニ演奏会",
+    "path": "programs/indoor-6cc20702-268660bc",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "折り紙カフェ",
+    "path": "programs/indoor-733a5ebb-8f96843b",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ハンドメイド雑貨の展示および販売",
+    "path": "programs/indoor-73e498da-c7071411",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "CGMAゲームセンター",
+    "path": "programs/indoor-78016ae6-feacbf07",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "酒粕日和",
+    "path": "programs/indoor-78ad0233-4ae4895f",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "GANS DJ LOUNGE",
+    "path": "programs/indoor-7a6aa973-fd7840f4",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ポケモンカード体験会＆フリー対戦会",
+    "path": "programs/indoor-817d0f55-5b0e9590",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "会誌「ちほうじん」販売",
+    "path": "programs/indoor-871c10c6-fd368612",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "【秋風】会誌・作品展示",
+    "path": "programs/indoor-8a62d471-e7b230e9",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "シャトルチャレンジ",
+    "path": "programs/indoor-8c030e33-1022683e",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "制作動画上映会",
+    "path": "programs/indoor-8ef4188f-9abb0dc8",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "Giの魅力を発信中！",
+    "path": "programs/indoor-996e2eec-98f714a6",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "不来方ロックフェス",
+    "path": "programs/indoor-a009e42e-f9cb4caf",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "PingPong challenge!",
+    "path": "programs/indoor-a379dbf1-c799d896",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "自由対局スペース",
+    "path": "programs/indoor-b0a063e0-a299806c",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "かっぱシアター",
+    "path": "programs/indoor-b21655e8-d1317447",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "写真部秋展",
+    "path": "programs/indoor-b42419eb-0ab73a7b",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ジャグリング体験会",
+    "path": "programs/indoor-b5af1e3f-a5cf1ce4",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "草月流いけばな展",
+    "path": "programs/indoor-ba5700d0-1ad79b81",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "きりん亭",
+    "path": "programs/indoor-bc62be22-042750dc",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ボードゲームカフェ",
+    "path": "programs/indoor-bdcd6219-1140ab90",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "学内カンパニー活動紹介",
+    "path": "programs/indoor-d0c115ab-0e216b43",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "あつまれ！デザインの森",
+    "path": "programs/indoor-ea4c0a87-60eb1058",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "鉄研展示会2026",
+    "path": "programs/indoor-effd8ff1-7dbeda7a",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "超ピアノサークル",
+    "path": "programs/indoor-f820e8c6-5b211bc4",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "紡げ！ひつじもふもふ",
+    "path": "programs/indoor-fa03e56a-49b913d7",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ロッ研不来方祭ライブ!!",
+    "path": "programs/indoor-fa1bc613-5e01966c",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ととや飯塚",
+    "path": "programs/outdoor-014e5ba7-99832f15",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "Bangladeshi curry house",
+    "path": "programs/outdoor-111c6a45-b8437c50",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "なかねっし〜",
+    "path": "programs/outdoor-1e5715c3-1f8fa0c5",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "からあげ直球勝負！",
+    "path": "programs/outdoor-23237a28-28470381",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "上田茶屋",
+    "path": "programs/outdoor-2c303abd-501265d2",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "岩手町ごはん出張所",
+    "path": "programs/outdoor-33ac1c77-43d6680c",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "不来方祭マラソン給水所",
+    "path": "programs/outdoor-365a4ca1-28771ca6",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "エコブース",
+    "path": "programs/outdoor-3a8c80d2-fea3e289",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "きりん亭",
+    "path": "programs/outdoor-3c0f871d-caf2b556",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "愛で包まれたチュロスドッグ",
+    "path": "programs/outdoor-3cda41d4-191a1611",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "はらぺこあおむし",
+    "path": "programs/outdoor-3ce9e7c7-fbc7aee0",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "GHKドッグ",
+    "path": "programs/outdoor-41d967af-a8971130",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "フィリピン雑貨とコーヒーを楽しもう！",
+    "path": "programs/outdoor-5029b82b-f24c62a3",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "映画館の売店",
+    "path": "programs/outdoor-54308a77-fb6f5177",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "短角牛の牛串販売",
+    "path": "programs/outdoor-57344abf-69d0469b",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "わんこ食堂　チュロス&ホットドリンク",
+    "path": "programs/outdoor-59acb78f-d4d1d991",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "玉こんにゃく屋",
+    "path": "programs/outdoor-5a2da411-63164524",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "バド部キッチン",
+    "path": "programs/outdoor-5d40e5cb-f43686ab",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "炙りぶりぶりベーコン！！",
+    "path": "programs/outdoor-6021d52b-cc003be1",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "おけるこ",
+    "path": "programs/outdoor-64bdd1f7-f6e05bd0",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "Taste of Bangladesh",
+    "path": "programs/outdoor-670b1d05-08186382",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "あったか　のむ豆腐スイーツ　タホ",
+    "path": "programs/outdoor-6e2c0f1b-98785d9d",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "焼き鳥専業",
+    "path": "programs/outdoor-75593437-51f92e5d",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "学祭 26 屋外企画",
+    "path": "programs/outdoor-767da471-3c28959f",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "中華甘味屋",
+    "path": "programs/outdoor-78b86a47-d188016f",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "野草の会",
+    "path": "programs/outdoor-848261e3-9b5124f3",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "sui❜s kitchen",
+    "path": "programs/outdoor-8789f20c-d83f32c0",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "珈琲屋台",
+    "path": "programs/outdoor-87ebc8e4-d8a3c9dd",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ドイツ風ソーセージとノンアルバー",
+    "path": "programs/outdoor-8eae3332-a429dded",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "クマ研りんご工房",
+    "path": "programs/outdoor-8fe71f52-83f66d50",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "もちチュロclimbing",
+    "path": "programs/outdoor-92367822-09998093",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "流星チュロス",
+    "path": "programs/outdoor-965bf494-dc2748e9",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ゲンゴロウ米団子",
+    "path": "programs/outdoor-976907b5-5a755917",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "アバッセ陸前高田　岩大出張所",
+    "path": "programs/outdoor-990ac99f-4316957b",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "甘味処弓ノ道",
+    "path": "programs/outdoor-9eeb7a9e-f37f38ff",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "HANASORE CAFE",
+    "path": "programs/outdoor-9f65344b-216c4b99",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "デザートショップゆうくん",
+    "path": "programs/outdoor-a75de8d7-0426c3a7",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "Aero Picrystal",
+    "path": "programs/outdoor-a76477e0-93e83e93",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "BISTRO H&M ～ポトフのボヌ・ファム風～",
+    "path": "programs/outdoor-a7f2cac4-d662bea9",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "エース級の1本",
+    "path": "programs/outdoor-ab3f5e14-fa1c7e41",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "甘味処 じゃぶす",
+    "path": "programs/outdoor-abc6fd54-85a2e633",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "水泳部のあったか～い豚汁",
+    "path": "programs/outdoor-b4279af2-b78c4c5e",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "雑貨店",
+    "path": "programs/outdoor-b91df788-bbb35ae2",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ここより食堂～山田のめぐみ～",
+    "path": "programs/outdoor-bcaa4b32-f7ea0d6e",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "はっだっぐ",
+    "path": "programs/outdoor-c2605bc7-78b2b55d",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "喫茶がんぽけ",
+    "path": "programs/outdoor-c278879c-e1343d08",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "岩大YMCA❗️富士宮焼きそば❗️",
+    "path": "programs/outdoor-c2ce22fd-14ffb858",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "アメニモマケ茶屋",
+    "path": "programs/outdoor-c65ad0a0-1c10a7be",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "The Monster 唐揚げ",
+    "path": "programs/outdoor-c9de639f-65b619e9",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ベビーカステラ",
+    "path": "programs/outdoor-ccd5ec08-ffafbc3b",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "茶縁・中華風タピオカミルクティー",
+    "path": "programs/outdoor-da2ab19a-c2ebf6ab",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "やきとりや　剣ちゃん",
+    "path": "programs/outdoor-dd356807-0867f4bd",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "味工房　チョレイ",
+    "path": "programs/outdoor-dd570360-9c29a002",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "学生議会本舗",
+    "path": "programs/outdoor-df1d6fe8-a539eab3",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "浜らいん",
+    "path": "programs/outdoor-e7902abb-3d1511a7",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ようこそ中華食堂へ",
+    "path": "programs/outdoor-e7d43ce8-93a456d4",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "焼き鳥 中",
+    "path": "programs/outdoor-f3d2f7c5-69c26622",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "韓国食堂",
+    "path": "programs/outdoor-f7293611-6228920f",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ゆのけん",
+    "path": "programs/outdoor-fe72599e-06cae572",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "チートデイ",
+    "path": "programs/outdoor-feea6e7b-d1606062",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ダンスショーケース",
+    "path": "programs/stage-day1-0ed65863-82b30396",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ジャグリングパフォーマンス",
+    "path": "programs/stage-day1-1f813a61-f52238e5",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "不来方ロックフェス",
+    "path": "programs/stage-day1-416343a7-e418f1f4",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "上小太鼓組",
+    "path": "programs/stage-day1-4838fe12-7503aea8",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "【なぞかけ】あなたのお題でととのいます！",
+    "path": "programs/stage-day1-4d09fdcb-4ac2dc81",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ロッ研不来方祭ライブ!!",
+    "path": "programs/stage-day1-519cf46c-9e2cec7d",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "上中太鼓",
+    "path": "programs/stage-day1-5a9946e9-fba52b56",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "Road to Zion 2",
+    "path": "programs/stage-day1-6c887211-e486db15",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "VOIVOIアカペラライブ",
+    "path": "programs/stage-day1-84952fee-8dbbab10",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ハロウィンダンス「グーチョキパーでパンプキン」",
+    "path": "programs/stage-day1-a242392d-7108fc90",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "GANS MAIN STAGE",
+    "path": "programs/stage-day1-b751e8d2-a3dda5e1",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ジャズ研ステージ",
+    "path": "programs/stage-day1-b906700c-99155fed",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "うたごえ不来方ライブ",
+    "path": "programs/stage-day1-c50e5ca7-1b63eb11",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "坂道アイドル同好会",
+    "path": "programs/stage-day1-fca1ef87-b8113362",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "かぷかぷ jazz club",
+    "path": "programs/stage-day2-0f43e393-24e48173",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "岩手大学ダンス同好会bizarre",
+    "path": "programs/stage-day2-26ef33b5-81a6babc",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "さんさ踊り演舞",
+    "path": "programs/stage-day2-2a4b7dcf-936b7a68",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "ゲストライブ",
+    "path": "programs/stage-day2-391e38f1-f6275eac",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "あにくら！",
+    "path": "programs/stage-day2-4699a296-2521ac81",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "社交ダンスのステージ発表",
+    "path": "programs/stage-day2-75c94d71-d32aacf7",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "少林寺拳法部　秋の演武会",
+    "path": "programs/stage-day2-7d3204ce-45eda5a5",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "岩手大学管弦楽団ミニコンサート",
+    "path": "programs/stage-day2-9e012fdb-ed1a8860",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "岩手大学非公認部隊ACTマンショー",
+    "path": "programs/stage-day2-a6bd2785-710b7b8a",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  },
+  {
+    "label": "三本柳さんさ踊り　澤目獅子踊り",
+    "path": "programs/stage-day2-dba53a21-d43c9e41",
+    "files": [
+      "card-384.webp",
+      "card-640.webp",
+      "detail-800.webp"
+    ]
+  }
+]
